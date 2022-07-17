@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2022-07-17T14:55:30.432Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1BfsJsUEvsr6po_J1xBW" version="20.1.1" type="github">
+  <diagram id="fi-OBeDVoVyC95V5E4uT" name="Page-1">
+    <mxGraphModel dx="2253" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1qy-laCBAELHmcL6I-pK-2" value="Mark-Sweep&lt;br&gt;存活多，回收少&lt;br&gt;空闲链表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1qy-laCBAELHmcL6I-pK-4" value="age&amp;gt;limit&lt;br&gt;Promotion" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1qy-laCBAELHmcL6I-pK-3" target="1qy-laCBAELHmcL6I-pK-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-69" y="320" as="sourcePoint" />
+            <mxPoint x="101" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qy-laCBAELHmcL6I-pK-3" value="Scavenge&lt;br&gt;存活少，回收多" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
