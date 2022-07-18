@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T12:01:08.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZxDwqWkA2kPQLBVMHPq6" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T12:06:43.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3cMfGJ-h8hJtAB0PIgB9" version="20.1.1" type="github">
   <diagram id="fi-OBeDVoVyC95V5E4uT" name="Page-1">
     <mxGraphModel dx="1366" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,6 +207,24 @@
         </mxCell>
         <mxCell id="0UfKBpmWMLKohGauaPTg-91" value="excute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0UfKBpmWMLKohGauaPTg-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0UfKBpmWMLKohGauaPTg-94" target="0UfKBpmWMLKohGauaPTg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UfKBpmWMLKohGauaPTg-94" value="AddObserver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UfKBpmWMLKohGauaPTg-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0UfKBpmWMLKohGauaPTg-95" target="0UfKBpmWMLKohGauaPTg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UfKBpmWMLKohGauaPTg-95" value="RemoveObserver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UfKBpmWMLKohGauaPTg-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0UfKBpmWMLKohGauaPTg-96" target="0UfKBpmWMLKohGauaPTg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UfKBpmWMLKohGauaPTg-96" value="PostMsg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
