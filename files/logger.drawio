@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T02:33:33.536Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.1" etag="trLysVhCfq44pUoIwVRF" type="github"><diagram id="YMON0NazyJKjAqDz70fW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-20T02:57:33.018Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="AjaOw3ATLnPjp5qllEkZ" version="20.1.1" type="github">
+  <diagram id="YMON0NazyJKjAqDz70fW" name="Page-1">
+    <mxGraphModel dx="1298" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="46qYT3RnzYacWRSJS8eP-4" value="BY_COUNT&lt;br&gt;BY_INTERVAL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-2" value="INFO&lt;br&gt;DEBUG&lt;br&gt;WARN&lt;br&gt;ERROR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="390" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=5;endArrow=oval;endFill=1;" edge="1" parent="1" source="46qYT3RnzYacWRSJS8eP-1" target="46qYT3RnzYacWRSJS8eP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="46qYT3RnzYacWRSJS8eP-1" target="46qYT3RnzYacWRSJS8eP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;endSize=5;" edge="1" parent="1" source="46qYT3RnzYacWRSJS8eP-1" target="46qYT3RnzYacWRSJS8eP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-1" value="#define LOG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;endSize=5;" edge="1" parent="1" source="46qYT3RnzYacWRSJS8eP-6" target="46qYT3RnzYacWRSJS8eP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-6" value="GetInstance-&amp;gt;Log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;endSize=5;" edge="1" parent="1" source="46qYT3RnzYacWRSJS8eP-8" target="46qYT3RnzYacWRSJS8eP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-8" value="Fmt2Str&lt;br&gt;+ TimeStamp&lt;br&gt;+ LineFeed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;endSize=5;" edge="1" parent="1" source="46qYT3RnzYacWRSJS8eP-10" target="46qYT3RnzYacWRSJS8eP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;endSize=5;" edge="1" parent="1" source="46qYT3RnzYacWRSJS8eP-10" target="46qYT3RnzYacWRSJS8eP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;endSize=5;" edge="1" parent="1" source="46qYT3RnzYacWRSJS8eP-10" target="46qYT3RnzYacWRSJS8eP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-10" value="SyncLogger (shared_lock)&lt;br&gt;or&lt;br&gt;ASyncLogger (ConcurrentQueue)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="820" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-14" value="CallbackLogSink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="820" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-16" value="RotatedFileLogSink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="960" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46qYT3RnzYacWRSJS8eP-18" value="StdoutLogSink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="820" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
