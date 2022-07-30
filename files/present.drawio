@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T01:33:18.397Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.0" etag="r1wxDr9KjHkVOIegjyUd" type="github"><diagram id="FANLjibRmGBwpOTSdv6W">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-30T01:47:01.498Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fxdOM4Q8tF0gp2bHJ1kP" version="20.2.0" type="github">
+  <diagram id="FANLjibRmGBwpOTSdv6W" name="第 1 页">
+    <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BTAlMbrkmgkX3ElMta1k-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="800" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BTAlMbrkmgkX3ElMta1k-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="360" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BTAlMbrkmgkX3ElMta1k-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="370" width="278" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BTAlMbrkmgkX3ElMta1k-1" value="心理学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BTAlMbrkmgkX3ElMta1k-4" value="Thinking" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BTAlMbrkmgkX3ElMta1k-5" value="Present" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BTAlMbrkmgkX3ElMta1k-6" value="不做/nagual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BTAlMbrkmgkX3ElMta1k-8" value="&lt;h1&gt;All&lt;/h1&gt;&lt;p&gt;时间&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="310" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BTAlMbrkmgkX3ElMta1k-9" value="灰度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BTAlMbrkmgkX3ElMta1k-10" value="每2小时一次" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="440" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
